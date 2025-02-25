@@ -4,7 +4,6 @@ from rest_framework.response import Response
 from rest_framework import status
 from .serializers import DriverSerializer, BusSerializer, RoutesSerializer, SubRoutesSerializer
 from .models import Driver, Bus, LocationGeo, Routes, Location, SubRoutes, User
-from routestTest import getBusDetails 
 from django.db.models import Q
 import requests as httpreq
 from django.shortcuts import get_object_or_404

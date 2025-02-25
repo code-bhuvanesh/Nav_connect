@@ -1,0 +1,23 @@
+/* .homemap-container {
+  height: 95vh;
+  width: 80vw;
+  border-radius: 20px;
+  position: relative;
+} */
+
+.homeMap {
+  height: 95vh;
+  width: 83vw;
+  border-radius: 20px;
+  position: absolute;
+}
+
+.white-background {
+  background-color: white;
+  border-radius: 100px;
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  width: 70vw;
+  height: 90vh;
+}

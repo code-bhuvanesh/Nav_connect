@@ -1,0 +1,135 @@
+ 
+# ==========================
+# 🌐 General & OS Files
+# ==========================
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Backup files
+*.bak
+*.tmp
+*.swp
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# ==========================
+# 🐍 Python & Django
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+.Python
+
+# Django-specific
+db.sqlite3
+*.log
+media/
+staticfiles/
+
+# Migrations (optional)
+**/migrations/*.pyc
+**/migrations/__pycache__/
+
+# Secrets
+.env
+*.secret
+
+# ==========================
+# 📱 Flutter
+# ==========================
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android-specific
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# iOS-specific
+ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+ios/Pods/
+macos/Pods/
+
+# IntelliJ/IDEA
+*.iml
+
+# Flutter Environment Files
+.env
+
+# ==========================
+# ⚛️ React
+# ==========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build files
+build/
+dist/
+
+# Dependency directories
+.cache/
+.next/
+
+# React Environment Files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ==========================
+# 🔌 Arduino
+# ==========================
+# Compiled object files
+*.o
+*.obj
+*.elf
+
+# Hex/Binary files
+*.hex
+*.bin
+
+# Build directories
+build/
+*.d
+
+# Arduino-specific
+*.ino.*
+*.cpp.*
+
+# ==========================
+# ✅ Common Editor Files
+# ==========================
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

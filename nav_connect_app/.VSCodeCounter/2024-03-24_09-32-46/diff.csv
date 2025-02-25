@@ -1,0 +1,14 @@
+"filename", "language", "YAML", "Dart", "JSON", "comment", "blank", "total"
+"d:\Projects\college_projects\SIST_Nav_Connect\sist_nav_connect\configjson.json", "JSON", 0, 0, 5, 0, 0, 5
+"d:\Projects\college_projects\SIST_Nav_Connect\sist_nav_connect\lib\data\model\bus.dart", "Dart", 0, 4, 0, 0, 0, 4
+"d:\Projects\college_projects\SIST_Nav_Connect\sist_nav_connect\lib\data\respository\backend_api.dart", "Dart", 0, 16, 0, 2, 1, 19
+"d:\Projects\college_projects\SIST_Nav_Connect\sist_nav_connect\lib\data\respository\location_socket.dart", "Dart", 0, 22, 0, 3, 4, 29
+"d:\Projects\college_projects\SIST_Nav_Connect\sist_nav_connect\lib\features\homepage\homepage.dart", "Dart", 0, 20, 0, 0, 0, 20
+"d:\Projects\college_projects\SIST_Nav_Connect\sist_nav_connect\lib\features\map_view_page\bloc\mapbloc_bloc.dart", "Dart", 0, 1, 0, 0, 0, 1
+"d:\Projects\college_projects\SIST_Nav_Connect\sist_nav_connect\lib\features\map_view_page\mapBottomSheet.dart", "Dart", 0, 54, 0, 0, 0, 54
+"d:\Projects\college_projects\SIST_Nav_Connect\sist_nav_connect\lib\features\map_view_page\mapviewpage.dart", "Dart", 0, 41, 0, 12, 0, 53
+"d:\Projects\college_projects\SIST_Nav_Connect\sist_nav_connect\lib\features\share_location\bloc\sharelocation_bloc.dart", "Dart", 0, 2, 0, 0, 0, 2
+"d:\Projects\college_projects\SIST_Nav_Connect\sist_nav_connect\lib\main.dart", "Dart", 0, 18, 0, 5, 1, 24
+"d:\Projects\college_projects\SIST_Nav_Connect\sist_nav_connect\lib\utils\helpers.dart", "Dart", 0, 2, 0, 2, 3, 7
+"d:\Projects\college_projects\SIST_Nav_Connect\sist_nav_connect\pubspec.yaml", "YAML", 3, 0, 0, -3, 0, 0
+"Total", "-", 3, 180, 5, 21, 9, 218

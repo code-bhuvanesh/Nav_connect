@@ -1,0 +1,19 @@
+version: "3.9"
+
+services:
+  django-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000" # Maps port 8000 of the container to 8000 on the host
+    volumes:
+      - .:/app # Mounts the current directory into the container
+    environment:
+      DJANGO_SETTINGS_MODULE: navconnect.settings
+    command: >
+      sh -c "
+      python manage.py makemigrations &&
+      python manage.py migrate &&
+      python manage.py runserver 0.0.0.0:8000  # Ensures the app listens on all interfaces
+      "

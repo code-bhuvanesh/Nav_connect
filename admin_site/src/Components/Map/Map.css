@@ -1,0 +1,15 @@
+.map-container {
+  height: 330px;
+  width: 330px;
+  margin-left: 15%;
+  border-radius: 20px;
+  position: relative;
+}
+
+.map{
+  height: 400px;
+  width: 500px;
+  border-radius: 20px;
+  position: absolute;
+  margin-top: 50px;
+}

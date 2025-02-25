@@ -1,0 +1,2045 @@
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Network search failed
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Network search failed
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+System start.
+Modem: 
+Network search failed
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Network search failed
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Network search failed
+*****new message*****
+*****new message*****
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Network search failed
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Network search failed
+*****new message*****
+*****new message*****
+*****new message*****
+*****new message*****
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Network search failed
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Network search failed
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Network search failed
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Network search failed
+*****new message*****
+*****new message*****
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Network search failed
+System start.
+System start.
+Modem: 
+Searching for telco provider.
+System start.
+Modem: 
+Searching for telco provider.
+Network search failed
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Network search failed
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Network search failed
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Network search failed
+System start.
+Modem: 
+Searching for telco provider.
+Network search failed
+System start.
+Modem: 
+Searching for telco provider.
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Network search failed
+Connected to telco.
+Signal Quality: 26
+Connecting to GPRS network.
+GPRS connection failed
+System start.
+Modem: 
+Searching for telco provider.
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Network search failed
+Searching for telco provider.
+Network search failed
+Searching for telco provider.
+*****new message*****
+*****new message*****
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Connected to telco.
+Signal Quality: 26
+Connecting to GPRS network.
+Connected to GPRS: airtelgprs.com
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+GPS and MQTT disconnected
+System start.
+Modem: 
+Searching for telco provider.
+Network search failed
+Searching for telco provider.
+Network search failed
+Searching for telco provider.
+System start.
+Modem: 
+Searching for telco provider.
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Connected to telco.
+Signal Quality: 23
+Connecting to GPRS network.
+Connected to GPRS: airtelgprs.com
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+searching for gps data .....
+Latitude: 12.892629, Longitude: 80.231590
+Latitude: 12.892629, Longitude: 80.231590
+Latitude: 12.892629, Longitude: 80.231590
+Latitude: 12.892629, Longitude: 80.231590
+Latitude: 12.892629, Longitude: 80.231590
+Latitude: 12.892629, Longitude: 80.231590
+Latitude: 12.892629, Longitude: 80.231590
+Latitude: 12.892629, Longitude: 80.231590
+Latitude: 12.892629, Longitude: 80.231590
+Latitude: 12.892651, Longitude: 80.231557
+Latitude: 12.892651, Longitude: 80.231557
+Latitude: 12.892651, Longitude: 80.231557
+Latitude: 12.892651, Longitude: 80.231557
+Latitude: 12.892651, Longitude: 80.231557
+Latitude: 12.892651, Longitude: 80.231557
+Latitude: 12.892651, Longitude: 80.231557
+Latitude: 12.892660, Longitude: 80.231557
+Latitude: 12.892660, Longitude: 80.231557
+Latitude: 12.892660, Longitude: 80.231557
+Latitude: 12.892660, Longitude: 80.231557
+Latitude: 12.892666, Longitude: 80.231557
+Latitude: 12.892666, Longitude: 80.231557
+Latitude: 12.892666, Longitude: 80.231557
+Latitude: 12.892666, Longitude: 80.231557
+Latitude: 12.892666, Longitude: 80.231557
+Latitude: 12.892666, Longitude: 80.231557
+Latitude: 12.892665, Longitude: 80.231561
+Latitude: 12.892665, Longitude: 80.231561
+Latitude: 12.892665, Longitude: 80.231561
+Latitude: 12.892665, Longitude: 80.231561
+Latitude: 12.892665, Longitude: 80.231561
+Latitude: 12.892665, Longitude: 80.231561
+Latitude: 12.892662, Longitude: 80.231560
+Latitude: 12.892662, Longitude: 80.231560
+Latitude: 12.892662, Longitude: 80.231560
+Latitude: 12.892662, Longitude: 80.231560
+Latitude: 12.892662, Longitude: 80.231560
+Latitude: 12.892662, Longitude: 80.231560
+Latitude: 12.892662, Longitude: 80.231560
+Latitude: 12.892662, Longitude: 80.231560
+Latitude: 12.892662, Longitude: 80.231560
+Latitude: 12.892662, Longitude: 80.231560
+Latitude: 12.892662, Longitude: 80.231560
+Latitude: 12.892673, Longitude: 80.231551
+Latitude: 12.892673, Longitude: 80.231551
+Latitude: 12.892672, Longitude: 80.231550
+Latitude: 12.892672, Longitude: 80.231550
+Latitude: 12.892672, Longitude: 80.231550
+Latitude: 12.892672, Longitude: 80.231550
+Latitude: 12.892672, Longitude: 80.231550
+Latitude: 12.892671, Longitude: 80.231546
+Latitude: 12.892671, Longitude: 80.231546
+Latitude: 12.892671, Longitude: 80.231546
+Latitude: 12.892672, Longitude: 80.231543
+Latitude: 12.892672, Longitude: 80.231543
+Latitude: 12.892672, Longitude: 80.231542
+Latitude: 12.892672, Longitude: 80.231542
+Latitude: 12.892672, Longitude: 80.231542
+Latitude: 12.892672, Longitude: 80.231542
+Latitude: 12.892672, Longitude: 80.231542
+Latitude: 12.892672, Longitude: 80.231542
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892669, Longitude: 80.231538
+Latitude: 12.892666, Longitude: 80.231539
+Latitude: 12.892666, Longitude: 80.231537
+Latitude: 12.892665, Longitude: 80.231537
+Latitude: 12.892665, Longitude: 80.231537
+Latitude: 12.892665, Longitude: 80.231537
+Latitude: 12.892665, Longitude: 80.231537
+Latitude: 12.892663, Longitude: 80.231535
+Latitude: 12.892663, Longitude: 80.231535
+Latitude: 12.892663, Longitude: 80.231535
+Latitude: 12.892663, Longitude: 80.231535
+Latitude: 12.892663, Longitude: 80.231535
+Latitude: 12.892663, Longitude: 80.231535
+Latitude: 12.892659, Longitude: 80.231537
+Latitude: 12.892652, Longitude: 80.231537
+Latitude: 12.892650, Longitude: 80.231537
+Latitude: 12.892648, Longitude: 80.231536
+Latitude: 12.892648, Longitude: 80.231536
+Latitude: 12.892648, Longitude: 80.231536
+Latitude: 12.892648, Longitude: 80.231536
+Latitude: 12.892648, Longitude: 80.231536
+Latitude: 12.892648, Longitude: 80.231536
+Latitude: 12.892648, Longitude: 80.231536
+Latitude: 12.892648, Longitude: 80.231536
+Latitude: 12.892640, Longitude: 80.231538
+Latitude: 12.892640, Longitude: 80.231538
+Latitude: 12.892639, Longitude: 80.231539
+Latitude: 12.892639, Longitude: 80.231539
+Latitude: 12.892639, Longitude: 80.231539
+Latitude: 12.892639, Longitude: 80.231539
+Latitude: 12.892632, Longitude: 80.231539
+Latitude: 12.892632, Longitude: 80.231539
+Latitude: 12.892632, Longitude: 80.231539
+Latitude: 12.892632, Longitude: 80.231539
+Latitude: 12.892632, Longitude: 80.231539
+Latitude: 12.892632, Longitude: 80.231539
+Latitude: 12.892632, Longitude: 80.231539
+Latitude: 12.892632, Longitude: 80.231539
+Latitude: 12.892632, Longitude: 80.231539
+Latitude: 12.892632, Longitude: 80.231539
+Latitude: 12.892633, Longitude: 80.231537
+Latitude: 12.892633, Longitude: 80.231537
+Latitude: 12.892633, Longitude: 80.231537
+Latitude: 12.892633, Longitude: 80.231537
+Latitude: 12.892633, Longitude: 80.231537
+Latitude: 12.892636, Longitude: 80.231535
+Latitude: 12.892636, Longitude: 80.231535
+Latitude: 12.892636, Longitude: 80.231535
+Latitude: 12.892636, Longitude: 80.231535
+Latitude: 12.892636, Longitude: 80.231535
+Latitude: 12.892641, Longitude: 80.231535
+Latitude: 12.892641, Longitude: 80.231535
+Latitude: 12.892641, Longitude: 80.231535
+Latitude: 12.892641, Longitude: 80.231535
+Latitude: 12.892641, Longitude: 80.231535
+Latitude: 12.892641, Longitude: 80.231535
+Latitude: 12.892643, Longitude: 80.231538
+Latitude: 12.892643, Longitude: 80.231538
+Latitude: 12.892643, Longitude: 80.231538
+Latitude: 12.892643, Longitude: 80.231538
+Latitude: 12.892643, Longitude: 80.231538
+Latitude: 12.892643, Longitude: 80.231538
+Latitude: 12.892646, Longitude: 80.231535
+Latitude: 12.892646, Longitude: 80.231535
+Latitude: 12.892646, Longitude: 80.231535
+Latitude: 12.892645, Longitude: 80.231536
+Latitude: 12.892645, Longitude: 80.231536
+Latitude: 12.892645, Longitude: 80.231536
+Latitude: 12.892645, Longitude: 80.231536
+Latitude: 12.892645, Longitude: 80.231536
+Latitude: 12.892645, Longitude: 80.231536
+Latitude: 12.892645, Longitude: 80.231536
+Latitude: 12.892645, Longitude: 80.231536
+Latitude: 12.892645, Longitude: 80.231536
+Latitude: 12.892645, Longitude: 80.231536
+Latitude: 12.892645, Longitude: 80.231536
+Latitude: 12.892645, Longitude: 80.231536
+Latitude: 12.892645, Longitude: 80.231536
+Latitude: 12.892644, Longitude: 80.231529
+Latitude: 12.892644, Longitude: 80.231529
+Latitude: 12.892644, Longitude: 80.231529
+Latitude: 12.892644, Longitude: 80.231529
+Latitude: 12.892644, Longitude: 80.231529
+Latitude: 12.892644, Longitude: 80.231529
+Latitude: 12.892644, Longitude: 80.231529
+Latitude: 12.892644, Longitude: 80.231529
+Latitude: 12.892644, Longitude: 80.231529
+Latitude: 12.892644, Longitude: 80.231529
+Latitude: 12.892644, Longitude: 80.231529
+Latitude: 12.892636, Longitude: 80.231528
+Latitude: 12.892636, Longitude: 80.231528
+Latitude: 12.892636, Longitude: 80.231528
+Latitude: 12.892636, Longitude: 80.231528
+Latitude: 12.892633, Longitude: 80.231531
+Latitude: 12.892633, Longitude: 80.231531
+Latitude: 12.892631, Longitude: 80.231531
+Latitude: 12.892631, Longitude: 80.231531
+Latitude: 12.892630, Longitude: 80.231531
+Latitude: 12.892630, Longitude: 80.231531
+Latitude: 12.892628, Longitude: 80.231532
+Latitude: 12.892628, Longitude: 80.231532
+Latitude: 12.892628, Longitude: 80.231532
+Latitude: 12.892628, Longitude: 80.231532
+Latitude: 12.892628, Longitude: 80.231532
+Latitude: 12.892628, Longitude: 80.231532
+Latitude: 12.892625, Longitude: 80.231534
+Latitude: 12.892625, Longitude: 80.231534
+Latitude: 12.892625, Longitude: 80.231534
+Latitude: 12.892625, Longitude: 80.231534
+Latitude: 12.892625, Longitude: 80.231534
+Latitude: 12.892625, Longitude: 80.231534
+Latitude: 12.892625, Longitude: 80.231534
+Latitude: 12.892625, Longitude: 80.231534
+Latitude: 12.892625, Longitude: 80.231534
+Latitude: 12.892627, Longitude: 80.231527
+Latitude: 12.892627, Longitude: 80.231527
+Latitude: 12.892627, Longitude: 80.231527
+Latitude: 12.892627, Longitude: 80.231527
+Latitude: 12.892627, Longitude: 80.231527
+Latitude: 12.892627, Longitude: 80.231527
+Latitude: 12.892627, Longitude: 80.231527
+Latitude: 12.892627, Longitude: 80.231527
+Latitude: 12.892627, Longitude: 80.231527
+Latitude: 12.892627, Longitude: 80.231527
+Latitude: 12.892632, Longitude: 80.231519
+Latitude: 12.892632, Longitude: 80.231519
+Latitude: 12.892632, Longitude: 80.231519
+Latitude: 12.892632, Longitude: 80.231519
+Latitude: 12.892632, Longitude: 80.231519
+Latitude: 12.892632, Longitude: 80.231519
+Latitude: 12.892632, Longitude: 80.231519
+Latitude: 12.892632, Longitude: 80.231519
+Latitude: 12.892632, Longitude: 80.231520
+Latitude: 12.892632, Longitude: 80.231520
+Latitude: 12.892632, Longitude: 80.231520
+Latitude: 12.892632, Longitude: 80.231520
+Latitude: 12.892632, Longitude: 80.231520
+Latitude: 12.892632, Longitude: 80.231520
+Latitude: 12.892632, Longitude: 80.231520
+Latitude: 12.892632, Longitude: 80.231520
+Latitude: 12.892632, Longitude: 80.231520
+Latitude: 12.892629, Longitude: 80.231527
+Latitude: 12.892628, Longitude: 80.231530
+Latitude: 12.892628, Longitude: 80.231530
+Latitude: 12.892628, Longitude: 80.231530
+Latitude: 12.892628, Longitude: 80.231530
+Latitude: 12.892630, Longitude: 80.231535
+Latitude: 12.892631, Longitude: 80.231535
+Latitude: 12.892631, Longitude: 80.231535
+Latitude: 12.892631, Longitude: 80.231535
+Latitude: 12.892631, Longitude: 80.231535
+Latitude: 12.892631, Longitude: 80.231536
+Latitude: 12.892631, Longitude: 80.231536
+Latitude: 12.892631, Longitude: 80.231536
+Latitude: 12.892631, Longitude: 80.231536
+Latitude: 12.892631, Longitude: 80.231536
+Latitude: 12.892631, Longitude: 80.231536
+Latitude: 12.892631, Longitude: 80.231536
+Latitude: 12.892635, Longitude: 80.231544
+Latitude: 12.892635, Longitude: 80.231544
+Latitude: 12.892635, Longitude: 80.231544
+Latitude: 12.892635, Longitude: 80.231544
+Latitude: 12.892635, Longitude: 80.231544
+Latitude: 12.892638, Longitude: 80.231542
+Latitude: 12.892638, Longitude: 80.231542
+Latitude: 12.892638, Longitude: 80.231542
+Latitude: 12.892639, Longitude: 80.231540
+Latitude: 12.892639, Longitude: 80.231540
+Latitude: 12.892639, Longitude: 80.231540
+Latitude: 12.892640, Longitude: 80.231540
+Latitude: 12.892640, Longitude: 80.231540
+Latitude: 12.892640, Longitude: 80.231540
+Latitude: 12.892641, Longitude: 80.231540
+Latitude: 12.892641, Longitude: 80.231540
+Latitude: 12.892641, Longitude: 80.231540
+Latitude: 12.892641, Longitude: 80.231540
+Latitude: 12.892641, Longitude: 80.231540
+Latitude: 12.892641, Longitude: 80.231540
+Latitude: 12.892641, Longitude: 80.231540
+Latitude: 12.892641, Longitude: 80.231540
+Latitude: 12.892643, Longitude: 80.231547
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892643, Longitude: 80.231548
+Latitude: 12.892650, Longitude: 80.231563
+Latitude: 12.892650, Longitude: 80.231563
+Latitude: 12.892650, Longitude: 80.231563
+Latitude: 12.892651, Longitude: 80.231563
+Latitude: 12.892651, Longitude: 80.231563
+Latitude: 12.892651, Longitude: 80.231563
+Latitude: 12.892651, Longitude: 80.231563
+Latitude: 12.892651, Longitude: 80.231563
+Latitude: 12.892651, Longitude: 80.231563
+Latitude: 12.892652, Longitude: 80.231567
+Latitude: 12.892652, Longitude: 80.231567
+Latitude: 12.892652, Longitude: 80.231568
+Latitude: 12.892652, Longitude: 80.231568
+Latitude: 12.892652, Longitude: 80.231568
+Latitude: 12.892652, Longitude: 80.231567
+Latitude: 12.892652, Longitude: 80.231567
+Latitude: 12.892652, Longitude: 80.231567
+Latitude: 12.892650, Longitude: 80.231571
+Latitude: 12.892650, Longitude: 80.231571
+Latitude: 12.892650, Longitude: 80.231571
+Latitude: 12.892650, Longitude: 80.231571
+Latitude: 12.892650, Longitude: 80.231571
+Latitude: 12.892650, Longitude: 80.231571
+Latitude: 12.892650, Longitude: 80.231571
+Latitude: 12.892649, Longitude: 80.231572
+Latitude: 12.892649, Longitude: 80.231572
+Latitude: 12.892649, Longitude: 80.231572
+Latitude: 12.892649, Longitude: 80.231572
+Latitude: 12.892649, Longitude: 80.231572
+Latitude: 12.892649, Longitude: 80.231572
+Latitude: 12.892649, Longitude: 80.231572
+Latitude: 12.892647, Longitude: 80.231583
+Latitude: 12.892647, Longitude: 80.231583
+Latitude: 12.892647, Longitude: 80.231583
+Latitude: 12.892647, Longitude: 80.231583
+Latitude: 12.892647, Longitude: 80.231583
+Latitude: 12.892647, Longitude: 80.231583
+Latitude: 12.892647, Longitude: 80.231583
+Latitude: 12.892652, Longitude: 80.231581
+Latitude: 12.892652, Longitude: 80.231581
+Latitude: 12.892653, Longitude: 80.231584
+Latitude: 12.892653, Longitude: 80.231584
+Latitude: 12.892653, Longitude: 80.231584
+Latitude: 12.892653, Longitude: 80.231584
+Latitude: 12.892652, Longitude: 80.231590
+Latitude: 12.892652, Longitude: 80.231590
+Latitude: 12.892652, Longitude: 80.231590
+Latitude: 12.892652, Longitude: 80.231590
+Latitude: 12.892652, Longitude: 80.231590
+Latitude: 12.892650, Longitude: 80.231599
+Latitude: 12.892650, Longitude: 80.231599
+Latitude: 12.892650, Longitude: 80.231599
+Latitude: 12.892650, Longitude: 80.231599
+Latitude: 12.892650, Longitude: 80.231599
+Latitude: 12.892650, Longitude: 80.231599
+Latitude: 12.892650, Longitude: 80.231599
+Latitude: 12.892650, Longitude: 80.231599
+Latitude: 12.892650, Longitude: 80.231599
+Latitude: 12.892650, Longitude: 80.231599
+Latitude: 12.892657, Longitude: 80.231599
+Latitude: 12.892657, Longitude: 80.231599
+Latitude: 12.892657, Longitude: 80.231599
+Latitude: 12.892657, Longitude: 80.231599
+Latitude: 12.892657, Longitude: 80.231599
+Latitude: 12.892670, Longitude: 80.231599
+Latitude: 12.892670, Longitude: 80.231599
+Latitude: 12.892670, Longitude: 80.231599
+Latitude: 12.892670, Longitude: 80.231599
+Latitude: 12.892670, Longitude: 80.231599
+Latitude: 12.892670, Longitude: 80.231599
+Latitude: 12.892676, Longitude: 80.231609
+Latitude: 12.892676, Longitude: 80.231609
+Latitude: 12.892676, Longitude: 80.231609
+Latitude: 12.892676, Longitude: 80.231609
+Latitude: 12.892676, Longitude: 80.231609
+Latitude: 12.892676, Longitude: 80.231609
+Latitude: 12.892678, Longitude: 80.231608
+Latitude: 12.892678, Longitude: 80.231608
+Latitude: 12.892679, Longitude: 80.231608
+Latitude: 12.892679, Longitude: 80.231608
+Latitude: 12.892679, Longitude: 80.231608
+Latitude: 12.892679, Longitude: 80.231608
+Latitude: 12.892679, Longitude: 80.231608
+Latitude: 12.892679, Longitude: 80.231608
+Latitude: 12.892679, Longitude: 80.231608
+Latitude: 12.892679, Longitude: 80.231608
+Latitude: 12.892679, Longitude: 80.231608
+Latitude: 12.892681, Longitude: 80.231600
+Latitude: 12.892681, Longitude: 80.231600
+Latitude: 12.892681, Longitude: 80.231600
+Latitude: 12.892683, Longitude: 80.231597
+Latitude: 12.892683, Longitude: 80.231597
+Latitude: 12.892683, Longitude: 80.231597
+Latitude: 12.892679, Longitude: 80.231597
+Latitude: 12.892679, Longitude: 80.231597
+Latitude: 12.892679, Longitude: 80.231597
+Latitude: 12.892679, Longitude: 80.231597
+Latitude: 12.892679, Longitude: 80.231597
+Latitude: 12.892679, Longitude: 80.231597
+Latitude: 12.892679, Longitude: 80.231597
+Latitude: 12.892679, Longitude: 80.231597
+Latitude: 12.892679, Longitude: 80.231597
+Latitude: 12.892665, Longitude: 80.231584
+Latitude: 12.892665, Longitude: 80.231584
+Latitude: 12.892665, Longitude: 80.231584
+Latitude: 12.892665, Longitude: 80.231584
+Latitude: 12.892665, Longitude: 80.231584
+Latitude: 12.892665, Longitude: 80.231584
+Latitude: 12.892665, Longitude: 80.231584
+Latitude: 12.892666, Longitude: 80.231584
+Latitude: 12.892666, Longitude: 80.231584
+Latitude: 12.892666, Longitude: 80.231584
+Latitude: 12.892666, Longitude: 80.231584
+Latitude: 12.892666, Longitude: 80.231584
+Latitude: 12.892661, Longitude: 80.231579
+Latitude: 12.892661, Longitude: 80.231579
+Latitude: 12.892661, Longitude: 80.231579
+Latitude: 12.892661, Longitude: 80.231579
+Latitude: 12.892661, Longitude: 80.231579
+Latitude: 12.892654, Longitude: 80.231571
+Latitude: 12.892654, Longitude: 80.231571
+Latitude: 12.892654, Longitude: 80.231571
+Latitude: 12.892654, Longitude: 80.231571
+Latitude: 12.892654, Longitude: 80.231571
+Latitude: 12.892654, Longitude: 80.231571
+Latitude: 12.892654, Longitude: 80.231571
+Latitude: 12.892654, Longitude: 80.231571
+Latitude: 12.892654, Longitude: 80.231571
+Latitude: 12.892654, Longitude: 80.231571
+Latitude: 12.892654, Longitude: 80.231571
+Latitude: 12.892642, Longitude: 80.231570
+Latitude: 12.892642, Longitude: 80.231570
+Latitude: 12.892642, Longitude: 80.231570
+Latitude: 12.892642, Longitude: 80.231570
+Latitude: 12.892642, Longitude: 80.231570
+Latitude: 12.892642, Longitude: 80.231570
+Latitude: 12.892642, Longitude: 80.231570
+Latitude: 12.892642, Longitude: 80.231570
+Latitude: 12.892642, Longitude: 80.231570
+Latitude: 12.892642, Longitude: 80.231570
+Latitude: 12.892642, Longitude: 80.231570
+Latitude: 12.892642, Longitude: 80.231570
+Latitude: 12.892642, Longitude: 80.231570
+Latitude: 12.892642, Longitude: 80.231570
+Latitude: 12.892642, Longitude: 80.231570
+Latitude: 12.892642, Longitude: 80.231570
+Latitude: 12.892641, Longitude: 80.231578
+Latitude: 12.892641, Longitude: 80.231578
+Latitude: 12.892641, Longitude: 80.231578
+Latitude: 12.892644, Longitude: 80.231580
+Latitude: 12.892644, Longitude: 80.231580
+Latitude: 12.892644, Longitude: 80.231580
+Latitude: 12.892648, Longitude: 80.231584
+Latitude: 12.892653, Longitude: 80.231584
+Latitude: 12.892653, Longitude: 80.231584
+Latitude: 12.892653, Longitude: 80.231584
+Latitude: 12.892653, Longitude: 80.231584
+Latitude: 12.892653, Longitude: 80.231584
+Latitude: 12.892653, Longitude: 80.231584
+Latitude: 12.892653, Longitude: 80.231584
+Latitude: 12.892656, Longitude: 80.231586
+Latitude: 12.892656, Longitude: 80.231586
+Latitude: 12.892656, Longitude: 80.231586
+Latitude: 12.892655, Longitude: 80.231588
+Latitude: 12.892655, Longitude: 80.231588
+Latitude: 12.892655, Longitude: 80.231588
+Latitude: 12.892655, Longitude: 80.231588
+Latitude: 12.892655, Longitude: 80.231588
+Latitude: 12.892655, Longitude: 80.231588
+Latitude: 12.892655, Longitude: 80.231588
+Latitude: 12.892655, Longitude: 80.231588
+Latitude: 12.892655, Longitude: 80.231588
+Latitude: 12.892646, Longitude: 80.231584
+Latitude: 12.892646, Longitude: 80.231584
+Latitude: 12.892646, Longitude: 80.231584
+Latitude: 12.892646, Longitude: 80.231584
+Latitude: 12.892646, Longitude: 80.231584
+Latitude: 12.892646, Longitude: 80.231584
+Latitude: 12.892646, Longitude: 80.231584
+System start.
+Modem: 
+Searching for telco provider.
+System start.
+Modem: 
+Searching for telco provider.
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Connected to telco.
+Signal Quality: 24
+Connecting to GPRS network.
+Connected to GPRS: airtelgprs.com
+Latitude: 12.892642, Longitude: 80.231630
+------------------------------------------------------------------------------
+Mqtt not connected
+Attempting MQTT connection...
+Connected to MQTT broker.
+Latitude: 12.892642, Longitude: 80.231630
+------------------------------------------------------------------------------
+Latitude: 12.892642, Longitude: 80.231630
+------------------------------------------------------------------------------
+Latitude: 12.892642, Longitude: 80.231630
+------------------------------------------------------------------------------
+Latitude: 12.892642, Longitude: 80.231630
+------------------------------------------------------------------------------
+Latitude: 12.892642, Longitude: 80.231630
+------------------------------------------------------------------------------
+Latitude: 12.892642, Longitude: 80.231630
+------------------------------------------------------------------------------
+Latitude: 12.892642, Longitude: 80.231630
+------------------------------------------------------------------------------
+Latitude: 12.892642, Longitude: 80.231630
+------------------------------------------------------------------------------
+Latitude: 12.892642, Longitude: 80.231630
+------------------------------------------------------------------------------
+Latitude: 12.892642, Longitude: 80.231630
+------------------------------------------------------------------------------
+Latitude: 12.892648, Longitude: 80.231625
+------------------------------------------------------------------------------
+Latitude: 12.892648, Longitude: 80.231625
+------------------------------------------------------------------------------
+Latitude: 12.892648, Longitude: 80.231625
+------------------------------------------------------------------------------
+Latitude: 12.892650, Longitude: 80.231620
+------------------------------------------------------------------------------
+Latitude: 12.892650, Longitude: 80.231620
+------------------------------------------------------------------------------
+Latitude: 12.892650, Longitude: 80.231620
+------------------------------------------------------------------------------
+Latitude: 12.892650, Longitude: 80.231620
+------------------------------------------------------------------------------
+Latitude: 12.892650, Longitude: 80.231620
+------------------------------------------------------------------------------
+Mqtt not connected
+Attempting MQTT connection...
+Connected to MQTT broker.
+Latitude: 12.892650, Longitude: 80.231620
+------------------------------------------------------------------------------
+Latitude: 12.892650, Longitude: 80.231620
+------------------------------------------------------------------------------
+Latitude: 12.892648, Longitude: 80.231626
+------------------------------------------------------------------------------
+Latitude: 12.892648, Longitude: 80.231626
+------------------------------------------------------------------------------
+Latitude: 12.892648, Longitude: 80.231626
+------------------------------------------------------------------------------
+Latitude: 12.892648, Longitude: 80.231626
+------------------------------------------------------------------------------
+Latitude: 12.892648, Longitude: 80.231626
+------------------------------------------------------------------------------
+Latitude: 12.892649, Longitude: 80.231627
+------------------------------------------------------------------------------
+Latitude: 12.892649, Longitude: 80.231627
+------------------------------------------------------------------------------
+Latitude: 12.892648, Longitude: 80.231626
+------------------------------------------------------------------------------
+Latitude: 12.892648, Longitude: 80.231626
+------------------------------------------------------------------------------
+Latitude: 12.892648, Longitude: 80.231626
+------------------------------------------------------------------------------
+Latitude: 12.892648, Longitude: 80.231626
+------------------------------------------------------------------------------
+Latitude: 12.892648, Longitude: 80.231625
+------------------------------------------------------------------------------
+Latitude: 12.892648, Longitude: 80.231625
+------------------------------------------------------------------------------
+Latitude: 12.892648, Longitude: 80.231625
+------------------------------------------------------------------------------
+Latitude: 12.892648, Longitude: 80.231625
+------------------------------------------------------------------------------
+Latitude: 12.892651, Longitude: 80.231620
+------------------------------------------------------------------------------
+Latitude: 12.892651, Longitude: 80.231620
+------------------------------------------------------------------------------
+Latitude: 12.892651, Longitude: 80.231620
+------------------------------------------------------------------------------
+Latitude: 12.892651, Longitude: 80.231620
+------------------------------------------------------------------------------
+Latitude: 12.892651, Longitude: 80.231620
+------------------------------------------------------------------------------
+Latitude: 12.892651, Longitude: 80.231620
+------------------------------------------------------------------------------
+Latitude: 12.892652, Longitude: 80.231616
+------------------------------------------------------------------------------
+Latitude: 12.892652, Longitude: 80.231616
+------------------------------------------------------------------------------
+Latitude: 12.892652, Longitude: 80.231616
+------------------------------------------------------------------------------
+Latitude: 12.892653, Longitude: 80.231616
+------------------------------------------------------------------------------
+Latitude: 12.892653, Longitude: 80.231616
+------------------------------------------------------------------------------
+Latitude: 12.892653, Longitude: 80.231616
+------------------------------------------------------------------------------
+Latitude: 12.892653, Longitude: 80.231616
+------------------------------------------------------------------------------
+Latitude: 12.892653, Longitude: 80.231616
+------------------------------------------------------------------------------
+Latitude: 12.892653, Longitude: 80.231616
+------------------------------------------------------------------------------
+Latitude: 12.892653, Longitude: 80.231616
+------------------------------------------------------------------------------
+Latitude: 12.892651, Longitude: 80.231613
+------------------------------------------------------------------------------
+Latitude: 12.892651, Longitude: 80.231613
+------------------------------------------------------------------------------
+Latitude: 12.892651, Longitude: 80.231613
+------------------------------------------------------------------------------
+Latitude: 12.892651, Longitude: 80.231613
+------------------------------------------------------------------------------
+Latitude: 12.892645, Longitude: 80.231615
+------------------------------------------------------------------------------
+Latitude: 12.892645, Longitude: 80.231615
+------------------------------------------------------------------------------
+Latitude: 12.892645, Longitude: 80.231615
+------------------------------------------------------------------------------
+Latitude: 12.892645, Longitude: 80.231615
+------------------------------------------------------------------------------
+Latitude: 12.892645, Longitude: 80.231615
+------------------------------------------------------------------------------
+Latitude: 12.892641, Longitude: 80.231614
+------------------------------------------------------------------------------
+Latitude: 12.892641, Longitude: 80.231614
+------------------------------------------------------------------------------
+Latitude: 12.892641, Longitude: 80.231614
+------------------------------------------------------------------------------
+Latitude: 12.892641, Longitude: 80.231614
+------------------------------------------------------------------------------
+Latitude: 12.892641, Longitude: 80.231614
+------------------------------------------------------------------------------
+Latitude: 12.892641, Longitude: 80.231614
+------------------------------------------------------------------------------
+Latitude: 12.892641, Longitude: 80.231614
+------------------------------------------------------------------------------
+Latitude: 12.892641, Longitude: 80.231614
+------------------------------------------------------------------------------
+Latitude: 12.892641, Longitude: 80.231614
+------------------------------------------------------------------------------
+Latitude: 12.892641, Longitude: 80.231614
+------------------------------------------------------------------------------
+Latitude: 12.892641, Longitude: 80.231614
+------------------------------------------------------------------------------
+Latitude: 12.892641, Longitude: 80.231614
+------------------------------------------------------------------------------
+Latitude: 12.892632, Longitude: 80.231603
+------------------------------------------------------------------------------
+Latitude: 12.892632, Longitude: 80.231603
+------------------------------------------------------------------------------
+Latitude: 12.892633, Longitude: 80.231600
+------------------------------------------------------------------------------
+Latitude: 12.892633, Longitude: 80.231600
+------------------------------------------------------------------------------
+Latitude: 12.892633, Longitude: 80.231600
+------------------------------------------------------------------------------
+Latitude: 12.892633, Longitude: 80.231600
+------------------------------------------------------------------------------
+Latitude: 12.892633, Longitude: 80.231600
+------------------------------------------------------------------------------
+Latitude: 12.892633, Longitude: 80.231600
+------------------------------------------------------------------------------
+Latitude: 12.892633, Longitude: 80.231600
+------------------------------------------------------------------------------
+Latitude: 12.892633, Longitude: 80.231600
+------------------------------------------------------------------------------
+Latitude: 12.892633, Longitude: 80.231600
+------------------------------------------------------------------------------
+Latitude: 12.892633, Longitude: 80.231600
+------------------------------------------------------------------------------
+Latitude: 12.892633, Longitude: 80.231600
+------------------------------------------------------------------------------
+Latitude: 12.892633, Longitude: 80.231600
+------------------------------------------------------------------------------
+Latitude: 12.892633, Longitude: 80.231600
+------------------------------------------------------------------------------
+Latitude: 12.892633, Longitude: 80.231600
+------------------------------------------------------------------------------
+Latitude: 12.892633, Longitude: 80.231600
+------------------------------------------------------------------------------
+Latitude: 12.892622, Longitude: 80.231598
+------------------------------------------------------------------------------
+Latitude: 12.892622, Longitude: 80.231598
+------------------------------------------------------------------------------
+Latitude: 12.892622, Longitude: 80.231598
+------------------------------------------------------------------------------
+Latitude: 12.892622, Longitude: 80.231598
+------------------------------------------------------------------------------
+Latitude: 12.892622, Longitude: 80.231598
+------------------------------------------------------------------------------
+Latitude: 12.892621, Longitude: 80.231596
+------------------------------------------------------------------------------
+Latitude: 12.892621, Longitude: 80.231596
+------------------------------------------------------------------------------
+Latitude: 12.892621, Longitude: 80.231596
+------------------------------------------------------------------------------
+Latitude: 12.892621, Longitude: 80.231596
+------------------------------------------------------------------------------
+Latitude: 12.892621, Longitude: 80.231596
+------------------------------------------------------------------------------
+Latitude: 12.892623, Longitude: 80.231599
+------------------------------------------------------------------------------
+Latitude: 12.892623, Longitude: 80.231599
+------------------------------------------------------------------------------
+Latitude: 12.892623, Longitude: 80.231599
+------------------------------------------------------------------------------
+Latitude: 12.892623, Longitude: 80.231599
+------------------------------------------------------------------------------
+Latitude: 12.892623, Longitude: 80.231599
+------------------------------------------------------------------------------
+Latitude: 12.892626, Longitude: 80.231595
+------------------------------------------------------------------------------
+Latitude: 12.892626, Longitude: 80.231595
+------------------------------------------------------------------------------
+Latitude: 12.892626, Longitude: 80.231595
+------------------------------------------------------------------------------
+Latitude: 12.892626, Longitude: 80.231595
+------------------------------------------------------------------------------
+Latitude: 12.892626, Longitude: 80.231595
+------------------------------------------------------------------------------
+Latitude: 12.892627, Longitude: 80.231595
+------------------------------------------------------------------------------
+Latitude: 12.892627, Longitude: 80.231595
+------------------------------------------------------------------------------
+Latitude: 12.892626, Longitude: 80.231595
+------------------------------------------------------------------------------
+Latitude: 12.892626, Longitude: 80.231595
+------------------------------------------------------------------------------
+Latitude: 12.892626, Longitude: 80.231595
+------------------------------------------------------------------------------
+Latitude: 12.892626, Longitude: 80.231595
+------------------------------------------------------------------------------
+Latitude: 12.892625, Longitude: 80.231594
+------------------------------------------------------------------------------
+Latitude: 12.892625, Longitude: 80.231594
+------------------------------------------------------------------------------
+Latitude: 12.892625, Longitude: 80.231594
+------------------------------------------------------------------------------
+Latitude: 12.892625, Longitude: 80.231594
+------------------------------------------------------------------------------
+Latitude: 12.892625, Longitude: 80.231594
+------------------------------------------------------------------------------
+Latitude: 12.892625, Longitude: 80.231594
+------------------------------------------------------------------------------
+Latitude: 12.892629, Longitude: 80.231592
+------------------------------------------------------------------------------
+Latitude: 12.892629, Longitude: 80.231592
+------------------------------------------------------------------------------
+Latitude: 12.892629, Longitude: 80.231592
+------------------------------------------------------------------------------
+Latitude: 12.892630, Longitude: 80.231593
+------------------------------------------------------------------------------
+Latitude: 12.892630, Longitude: 80.231593
+------------------------------------------------------------------------------
+Latitude: 12.892630, Longitude: 80.231593
+------------------------------------------------------------------------------
+Latitude: 12.892630, Longitude: 80.231593
+------------------------------------------------------------------------------
+Latitude: 12.892630, Longitude: 80.231593
+------------------------------------------------------------------------------
+Latitude: 12.892630, Longitude: 80.231593
+------------------------------------------------------------------------------
+Latitude: 12.892634, Longitude: 80.231597
+------------------------------------------------------------------------------
+Latitude: 12.892634, Longitude: 80.231597
+------------------------------------------------------------------------------
+Latitude: 12.892634, Longitude: 80.231597
+------------------------------------------------------------------------------
+Latitude: 12.892634, Longitude: 80.231597
+------------------------------------------------------------------------------
+Latitude: 12.892641, Longitude: 80.231594
+------------------------------------------------------------------------------
+Latitude: 12.892641, Longitude: 80.231594
+------------------------------------------------------------------------------
+Latitude: 12.892641, Longitude: 80.231594
+------------------------------------------------------------------------------
+Latitude: 12.892641, Longitude: 80.231594
+------------------------------------------------------------------------------
+Latitude: 12.892641, Longitude: 80.231594
+------------------------------------------------------------------------------
+Latitude: 12.892644, Longitude: 80.231594
+------------------------------------------------------------------------------
+Latitude: 12.892644, Longitude: 80.231594
+------------------------------------------------------------------------------
+Latitude: 12.892644, Longitude: 80.231594
+------------------------------------------------------------------------------
+Latitude: 12.892644, Longitude: 80.231594
+------------------------------------------------------------------------------
+Latitude: 12.892644, Longitude: 80.231594
+------------------------------------------------------------------------------
+Latitude: 12.892644, Longitude: 80.231594
+------------------------------------------------------------------------------
+System start.
+Modem: 
+Searching for telco provider.
+System start.
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Connected to telco.
+Signal Quality: 27
+Connecting to GPRS network.
+Connected to GPRS: airtelgprs.com
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 28
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 99
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+Signal Quality: 27
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Connected to telco.
+Signal Quality: 27
+Connecting to GPRS network.
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Connected to telco.
+Signal Quality: 20
+Connecting to GPRS network.
+System start.
+Modem: 
+Searching for telco provider.
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Connected to telco.
+Connecting to GPRS network.
+Signal Quality: 21
+Connected to GPRS: airtelgprs.com
+Signal Quality: 21
+Latitude: 12.892636, Longitude: 80.231440
+------------------------------------------------------------------------------
+Mqtt not connected
+Attempting MQTT connection...
+Connected to MQTT broker.
+Signal Quality: 21
+Latitude: 12.892636, Longitude: 80.231440
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892636, Longitude: 80.231440
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892636, Longitude: 80.231440
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892636, Longitude: 80.231440
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892636, Longitude: 80.231440
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892636, Longitude: 80.231440
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892671, Longitude: 80.231378
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892671, Longitude: 80.231378
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892671, Longitude: 80.231378
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892671, Longitude: 80.231378
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892671, Longitude: 80.231378
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892673, Longitude: 80.231349
+------------------------------------------------------------------------------
+Signal Quality: 19
+Latitude: 12.892673, Longitude: 80.231349
+------------------------------------------------------------------------------
+Signal Quality: 19
+Latitude: 12.892673, Longitude: 80.231349
+------------------------------------------------------------------------------
+Mqtt not connected
+Attempting MQTT connection...
+MQTT connection failed.
+Attempting MQTT connection...
+Connected to MQTT broker.
+Signal Quality: 20
+Latitude: 12.892668, Longitude: 80.231387
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892668, Longitude: 80.231387
+------------------------------------------------------------------------------
+Mqtt not connected
+Attempting MQTT connection...
+Connected to MQTT broker.
+Signal Quality: 21
+Latitude: 12.892668, Longitude: 80.231387
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892668, Longitude: 80.231387
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892668, Longitude: 80.231387
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892668, Longitude: 80.231387
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892668, Longitude: 80.231387
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892668, Longitude: 80.231387
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892668, Longitude: 80.231387
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892668, Longitude: 80.231387
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892668, Longitude: 80.231387
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892668, Longitude: 80.231387
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892623, Longitude: 80.231504
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892623, Longitude: 80.231504
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892623, Longitude: 80.231504
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892630, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892630, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892630, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892630, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892630, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892630, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892630, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892630, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892630, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892630, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892630, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892630, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892689, Longitude: 80.231632
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892689, Longitude: 80.231632
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892689, Longitude: 80.231632
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892689, Longitude: 80.231632
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892689, Longitude: 80.231632
+------------------------------------------------------------------------------
+Mqtt not connected
+Attempting MQTT connection...
+Connected to MQTT broker.
+Signal Quality: 21
+Latitude: 12.892689, Longitude: 80.231632
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892689, Longitude: 80.231632
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892689, Longitude: 80.231632
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892689, Longitude: 80.231632
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892689, Longitude: 80.231632
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892680, Longitude: 80.231628
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892680, Longitude: 80.231628
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892673, Longitude: 80.231628
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892673, Longitude: 80.231628
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892673, Longitude: 80.231628
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892673, Longitude: 80.231628
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892673, Longitude: 80.231628
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892661, Longitude: 80.231598
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892661, Longitude: 80.231598
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892663, Longitude: 80.231597
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892663, Longitude: 80.231597
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892652, Longitude: 80.231559
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892652, Longitude: 80.231559
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892652, Longitude: 80.231559
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892652, Longitude: 80.231559
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892652, Longitude: 80.231559
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892652, Longitude: 80.231559
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892652, Longitude: 80.231559
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892652, Longitude: 80.231559
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892673, Longitude: 80.231466
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892679, Longitude: 80.231466
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892679, Longitude: 80.231466
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892673, Longitude: 80.231483
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892675, Longitude: 80.231553
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892675, Longitude: 80.231553
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892675, Longitude: 80.231553
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892684, Longitude: 80.231582
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892684, Longitude: 80.231582
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892686, Longitude: 80.231572
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892686, Longitude: 80.231572
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892686, Longitude: 80.231572
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892686, Longitude: 80.231572
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892686, Longitude: 80.231572
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892686, Longitude: 80.231572
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892686, Longitude: 80.231572
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892686, Longitude: 80.231572
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892686, Longitude: 80.231572
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892686, Longitude: 80.231572
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892686, Longitude: 80.231572
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892658, Longitude: 80.231583
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892658, Longitude: 80.231583
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892658, Longitude: 80.231583
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892658, Longitude: 80.231583
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892658, Longitude: 80.231583
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892632, Longitude: 80.231652
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892632, Longitude: 80.231652
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892632, Longitude: 80.231652
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892632, Longitude: 80.231652
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892632, Longitude: 80.231652
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892632, Longitude: 80.231652
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892632, Longitude: 80.231652
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892632, Longitude: 80.231652
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892694, Longitude: 80.231688
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892694, Longitude: 80.231688
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892694, Longitude: 80.231688
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892694, Longitude: 80.231688
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892694, Longitude: 80.231688
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892714, Longitude: 80.231790
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892714, Longitude: 80.231790
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892714, Longitude: 80.231790
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892714, Longitude: 80.231790
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892714, Longitude: 80.231790
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892711, Longitude: 80.231860
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892711, Longitude: 80.231860
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892711, Longitude: 80.231860
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892711, Longitude: 80.231860
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892696, Longitude: 80.231714
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892696, Longitude: 80.231714
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892692, Longitude: 80.231624
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892692, Longitude: 80.231624
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892692, Longitude: 80.231624
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892692, Longitude: 80.231624
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892692, Longitude: 80.231624
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892692, Longitude: 80.231624
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892692, Longitude: 80.231624
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892692, Longitude: 80.231624
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892692, Longitude: 80.231624
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892692, Longitude: 80.231624
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892692, Longitude: 80.231624
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892642, Longitude: 80.231529
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892642, Longitude: 80.231529
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892642, Longitude: 80.231529
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892642, Longitude: 80.231529
+------------------------------------------------------------------------------
+Mqtt not connected
+Attempting MQTT connection...
+Connected to MQTT broker.
+Signal Quality: 22
+Latitude: 12.892626, Longitude: 80.231471
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892600, Longitude: 80.231501
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892600, Longitude: 80.231501
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892599, Longitude: 80.231510
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892599, Longitude: 80.231510
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892596, Longitude: 80.231519
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892596, Longitude: 80.231519
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892596, Longitude: 80.231519
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892596, Longitude: 80.231519
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892605, Longitude: 80.231535
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892605, Longitude: 80.231535
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892605, Longitude: 80.231535
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892599, Longitude: 80.231536
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892599, Longitude: 80.231536
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892599, Longitude: 80.231536
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892599, Longitude: 80.231536
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892599, Longitude: 80.231536
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892599, Longitude: 80.231536
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892599, Longitude: 80.231536
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892599, Longitude: 80.231536
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892595, Longitude: 80.231531
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892595, Longitude: 80.231531
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892595, Longitude: 80.231531
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892600, Longitude: 80.231514
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892600, Longitude: 80.231514
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892600, Longitude: 80.231514
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892600, Longitude: 80.231514
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892600, Longitude: 80.231514
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892600, Longitude: 80.231514
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892610, Longitude: 80.231492
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892610, Longitude: 80.231492
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892610, Longitude: 80.231492
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892610, Longitude: 80.231492
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892610, Longitude: 80.231492
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892610, Longitude: 80.231492
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892573, Longitude: 80.231516
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892573, Longitude: 80.231516
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892573, Longitude: 80.231516
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892573, Longitude: 80.231516
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892573, Longitude: 80.231516
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892573, Longitude: 80.231516
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892566, Longitude: 80.231505
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892566, Longitude: 80.231505
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892561, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892561, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892561, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892561, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892561, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892561, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892561, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892561, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892561, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892561, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892561, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892561, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892561, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892561, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892561, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892561, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892561, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892561, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892561, Longitude: 80.231509
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892610, Longitude: 80.231477
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892610, Longitude: 80.231477
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892610, Longitude: 80.231477
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892610, Longitude: 80.231477
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892610, Longitude: 80.231477
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892610, Longitude: 80.231477
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892597, Longitude: 80.231493
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892597, Longitude: 80.231493
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892597, Longitude: 80.231493
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892597, Longitude: 80.231493
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892597, Longitude: 80.231493
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892597, Longitude: 80.231493
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892597, Longitude: 80.231493
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892597, Longitude: 80.231493
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892604, Longitude: 80.231493
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892604, Longitude: 80.231493
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892604, Longitude: 80.231493
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892604, Longitude: 80.231493
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892604, Longitude: 80.231493
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892604, Longitude: 80.231493
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892594, Longitude: 80.231488
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892594, Longitude: 80.231488
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892594, Longitude: 80.231488
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892594, Longitude: 80.231488
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892594, Longitude: 80.231488
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892594, Longitude: 80.231488
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892594, Longitude: 80.231488
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892594, Longitude: 80.231488
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892594, Longitude: 80.231488
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892594, Longitude: 80.231488
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892594, Longitude: 80.231488
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892596, Longitude: 80.231466
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892596, Longitude: 80.231466
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892596, Longitude: 80.231466
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892586, Longitude: 80.231490
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892586, Longitude: 80.231490
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892586, Longitude: 80.231490
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892586, Longitude: 80.231490
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892586, Longitude: 80.231526
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892586, Longitude: 80.231526
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892591, Longitude: 80.231527
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892591, Longitude: 80.231527
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892591, Longitude: 80.231527
+------------------------------------------------------------------------------
+Signal Quality: 20
+Latitude: 12.892591, Longitude: 80.231527
+------------------------------------------------------------------------------
+Signal Quality: 23
+Latitude: 12.892596, Longitude: 80.231517
+------------------------------------------------------------------------------
+Signal Quality: 23
+Latitude: 12.892597, Longitude: 80.231515
+------------------------------------------------------------------------------
+Signal Quality: 23
+Latitude: 12.892597, Longitude: 80.231515
+------------------------------------------------------------------------------
+Signal Quality: 23
+Latitude: 12.892601, Longitude: 80.231508
+------------------------------------------------------------------------------
+Signal Quality: 23
+Latitude: 12.892601, Longitude: 80.231508
+------------------------------------------------------------------------------
+Signal Quality: 23
+Latitude: 12.892601, Longitude: 80.231508
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892608, Longitude: 80.231500
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892608, Longitude: 80.231500
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892608, Longitude: 80.231500
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892608, Longitude: 80.231500
+------------------------------------------------------------------------------
+Mqtt not connected
+Attempting MQTT connection...
+Connected to MQTT broker.
+Signal Quality: 21
+Latitude: 12.892608, Longitude: 80.231500
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892608, Longitude: 80.231500
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892608, Longitude: 80.231500
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892608, Longitude: 80.231500
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892608, Longitude: 80.231500
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892608, Longitude: 80.231500
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892608, Longitude: 80.231500
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892605, Longitude: 80.231497
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892605, Longitude: 80.231497
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892605, Longitude: 80.231497
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892609, Longitude: 80.231495
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892609, Longitude: 80.231495
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892609, Longitude: 80.231495
+------------------------------------------------------------------------------
+Signal Quality: 22
+Latitude: 12.892609, Longitude: 80.231495
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892609, Longitude: 80.231495
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892600, Longitude: 80.231511
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892600, Longitude: 80.231511
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892600, Longitude: 80.231511
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892600, Longitude: 80.231511
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892600, Longitude: 80.231511
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892600, Longitude: 80.231511
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892600, Longitude: 80.231511
+------------------------------------------------------------------------------
+Signal Quality: 21
+Latitude: 12.892611, Longitude: 80.231519
+------------------------------------------------------------------------------
+Signal Quality: 19
+Latitude: 12.892611, Longitude: 80.231519
+------------------------------------------------------------------------------
+System start.
+Modem: SIM800 R14.18
+Searching for telco provider.
+Connected to telco.
+Signal Quality: 23
+Connecting to GPRS network.

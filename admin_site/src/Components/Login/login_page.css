@@ -1,0 +1,98 @@
+.bustable {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.bustable th {
+  background-color: #062e61;
+  color: white;
+}
+
+.bustable th:first-child {
+  border-top-left-radius: 12px;
+}
+
+.bustable th:last-child {
+  border-top-right-radius: 12px;
+}
+
+.bustable tr:last-child td:first-child {
+  border-bottom-left-radius: 12px;
+}
+
+.bustable tr:last-child td:last-child {
+  border-bottom-right-radius: 12px;
+}
+  
+  .boxs1 {
+    background-color: #cddaeb;
+  }
+  
+  .boxs2 {
+    background-color: #F8F9FA;
+  }
+  .busform{
+    padding: 0%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    height: 600px;
+    width: 500px;
+   }
+   
+   .modal-overlay {
+     position: fixed;
+     top: 0;
+     left: 0;
+     right: 0;
+     bottom: 0;
+     background-color: rgba(0, 0, 0, 0.5);
+     display: flex;
+     align-items: center;
+     justify-content: center;
+   }
+   
+   .modal-content {
+     background: white;
+     /* padding: 20px; */
+     border-radius: 20px;
+     max-width: 600px;
+     width: 100%;
+   }
+   
+   .modal-close {
+     float: right;
+     padding: 10px;
+     border-radius: 16px;
+     cursor: pointer;
+     
+   }
+   .closeimg{
+    height: 20px;
+   }
+   .btn-primary{
+    background-color: #062e61;
+    color: white;
+    border-radius: 14px;
+    padding: 10px;
+  }
+  
+  .btn-light {
+    background-color: #e0e0e0;
+    color: #000;
+    border-radius: 14px;
+    padding: 10px;
+  
+  
+  }
+  .pagination{
+    top:90%;
+    position: absolute;
+    left: 50%;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+  }

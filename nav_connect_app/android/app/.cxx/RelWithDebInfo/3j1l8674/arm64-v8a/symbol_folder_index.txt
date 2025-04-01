@@ -1,0 +1,1 @@
+D:\Projects\SIST_Nav_Connect\Nav_connect\nav_connect_app\build\app\intermediates\cxx\RelWithDebInfo\3j1l8674\obj\arm64-v8a

@@ -1,0 +1,2 @@
+D:/Projects/SIST_Nav_Connect/Nav_connect/nav_connect_app/android/app/.cxx/RelWithDebInfo/3j1l8674/x86/CMakeFiles/edit_cache.dir
+D:/Projects/SIST_Nav_Connect/Nav_connect/nav_connect_app/android/app/.cxx/RelWithDebInfo/3j1l8674/x86/CMakeFiles/rebuild_cache.dir

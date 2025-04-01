@@ -22,15 +22,16 @@ function App() {
     console.log(new Date().getTime() < expiry);
     if (new Date().getTime() < expiry) {
       isLoggedIn = true;
+    } else {
+      localStorage.removeItem("userData");
     }
   }
 
   console.log("is loged in", isLoggedIn);
 
-
   const handleLogout = () => {
     localStorage.removeItem("userData");
-    Navigate("/login");
+    window.location.reload();
   };
 
   return (
@@ -42,8 +43,25 @@ function App() {
           element={
             isLoggedIn ? (
               <div className="flex h-screen">
-                <Navbar onLogout={handleLogout} />
-                <div className="flex-1 p-5 overflow-auto">
+                <button
+                  onClick={handleLogout}
+                  style={{
+                    position: "absolute",
+                    top: "30px",
+                    right: "60px",
+                    backgroundColor: "red",
+                    color: "white",
+                    border: "none",
+                    padding: "10px 15px",
+                    borderRadius: "5px",
+                    cursor: "pointer",
+                    zIndex: 1000,
+                  }}
+                >
+                  Logout
+                </button>
+                <Navbar />
+                <div className="flex-1 p-5 overflow-auto relative">
                   <Routes>
                     <Route path="/" element={<Home />} />
                     <Route path="/drivers" element={<Drivers />} />
@@ -54,7 +72,6 @@ function App() {
               </div>
             ) : (
               <Navigate to="/login" />
-              // <div>s</div>
             )
           }
         />

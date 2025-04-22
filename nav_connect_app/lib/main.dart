@@ -122,9 +122,40 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
+        textTheme: const TextTheme(
+          displayLarge: TextStyle(
+              fontSize: 32, fontWeight: FontWeight.bold, color: Colors.white),
+          displayMedium: TextStyle(
+              fontSize: 28, fontWeight: FontWeight.bold, color: Colors.white),
+          displaySmall: TextStyle(
+              fontSize: 24, fontWeight: FontWeight.bold, color: Colors.white),
+          headlineLarge: TextStyle(
+              fontSize: 22, fontWeight: FontWeight.w600, color: Colors.white),
+          headlineMedium: TextStyle(
+              fontSize: 20, fontWeight: FontWeight.w600, color: Colors.white),
+          headlineSmall: TextStyle(
+              fontSize: 18, fontWeight: FontWeight.w600, color: Colors.white),
+          titleLarge: TextStyle(
+              fontSize: 16, fontWeight: FontWeight.w500, color: Colors.white),
+          titleMedium: TextStyle(
+              fontSize: 14, fontWeight: FontWeight.w500, color: Colors.white),
+          titleSmall: TextStyle(
+              fontSize: 12, fontWeight: FontWeight.w500, color: Colors.white),
+          bodyLarge: TextStyle(
+              fontSize: 16, fontWeight: FontWeight.normal, color: Colors.white),
+          bodyMedium: TextStyle(
+              fontSize: 14, fontWeight: FontWeight.normal, color: Colors.white),
+          bodySmall: TextStyle(
+              fontSize: 12, fontWeight: FontWeight.normal, color: Colors.white),
+          labelLarge: TextStyle(
+              fontSize: 14, fontWeight: FontWeight.bold, color: Colors.white),
+          labelMedium: TextStyle(
+              fontSize: 12, fontWeight: FontWeight.bold, color: Colors.white),
+          labelSmall: TextStyle(
+              fontSize: 10, fontWeight: FontWeight.bold, color: Colors.white),
+        ),
       ),
       debugShowCheckedModeBanner: false,
-      // onGenerateInitialRoutes: ,
       onGenerateRoute: generateRoute,
     );
   }

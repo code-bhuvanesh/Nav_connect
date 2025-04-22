@@ -26,7 +26,7 @@ async def ws_client():
             await ws.send(json.dumps(loc))
             msg = await ws.recv()
             print(msg)
-            sleep(2)
+            sleep(10)
         # while(True):
         #     loc = { "lat" : cordinates[0][0], "lang" : cordinates[0][1] }
         #     await ws.send(json.dumps(loc))

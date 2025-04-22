@@ -23,7 +23,8 @@ class _MapBottomSheetState extends State<MapBottomSheet> {
       width: MediaQuery.of(context).size.width,
       height: sheetheight,
       decoration: BoxDecoration(
-        color: Colors.white,
+        // color: Colors.white,
+        color: const Color.fromARGB(255, 58, 58, 58),
         borderRadius: const BorderRadius.only(
           topLeft: Radius.circular(20),
           topRight: Radius.circular(20),
@@ -66,7 +67,7 @@ class _MapBottomSheetState extends State<MapBottomSheet> {
                         text: TextSpan(
                           text: convertMeters(widget.busDistance!),
                           style: const TextStyle(
-                            color: Colors.black,
+                            // color: Colors.black,
                             fontSize: 20.0,
                             fontWeight: FontWeight.bold,
                           ),
@@ -85,7 +86,7 @@ class _MapBottomSheetState extends State<MapBottomSheet> {
                         text: TextSpan(
                           text: "will arrive in ",
                           style: const TextStyle(
-                            color: Colors.black,
+                            // color: Colors.black,
                             fontSize: 20.0,
                             fontWeight: FontWeight.normal,
                           ),
